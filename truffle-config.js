@@ -1,6 +1,6 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 const privateKeys = [
-  "0xed82d01a8eab6f3c80df5674f87663a534e2cfa5009edc88fa28ddb3e0c939ee",
+  "0xed82d01a8eab6f3c80df5674f87663a534e2cfa5009edc88fa28ddb3e0c939ee", // Don't use this key on public. This is not work any blockchain.
 ];
 
 /**
